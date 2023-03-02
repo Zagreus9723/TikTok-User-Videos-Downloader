@@ -16,7 +16,7 @@ tiktokapipy
 python -m playwright install
 
 
-Create a folder named videos.py
+Create a folder named videos
 
 
 Done!
