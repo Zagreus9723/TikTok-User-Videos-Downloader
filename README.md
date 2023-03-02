@@ -13,6 +13,8 @@ selenium
 
 tiktokapipy
 
+python -m playwright install
+
 
 Create a folder named videos.py
 
